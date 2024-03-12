@@ -1,0 +1,15 @@
+let a = 4;
+console.log(a);
+let b = ++a;
+console.log(b);
+let c = b++;
+console.log(c);
+console.log(b);
+let d = ++c;
+console.log(d);
+let e = --d;
+console.log(e);
+let f = e--;
+console.log(f);
+console.log(e);
+export {};
